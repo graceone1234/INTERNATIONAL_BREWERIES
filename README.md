@@ -1,1 +1,5 @@
-# INTERNATIONAL_BREWERIES
+# INTERNATIONAL_BREWERIES: PROJECT DESCRIPTION
+The international breweries project is based on beverage produced in the company ranging from beer to non-alcoholic drinks for the period of three years (2017-2019). Data was collected on the sales from five different African countries (Nigeria, Ghana, Senegal, Benin, and Togo) and I will be doing some analyses that would aid better decision making in order to maximize profit and reduce loss to the lowest minimum based on these five African countries sales. I used a table called “international breweries data” in international breweries database
+DESIGN
+For an accurate analysis result, the data ought to be free from all command anomalies, therefore, correct use of command for querying was observed during analysis which made our dataset ready and good for analysis for this project and as a result helped us to narrow our insight from the general dataset.
+[SQL capstone project.docx](https://github.com/graceone1234/INTERNATIONAL_BREWERIES/files/10733089/SQL.capstone.project.docx)
